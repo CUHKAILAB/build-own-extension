@@ -14,7 +14,7 @@ enum MyEnum {
 /**
  * 自訂的積木
  */
-//% weight=100 color=#00ffd9 icon=""
+//% weight=100 color=#00ffd9 icon="\uf059"
 namespace custom {
     /**
      * TODO: 在此描述函式
